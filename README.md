@@ -1,4 +1,4 @@
-# HealthyRecipe
+# HealthyRecipe 
 
 
-it is about cooking healthy within a time frame. 
+It is about cooking healthy within a time frame. 
